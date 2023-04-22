@@ -1,7 +1,7 @@
 <div id = "header" align = "center">
     <img src = https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif width = "100"/>
 </div>
-<div id="badges" align = "centre">
+<div id = "badges" align = "centre">
   <a href="https://linkedin.com/in/ishaq-rajab-85250a234">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
