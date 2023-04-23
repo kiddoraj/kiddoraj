@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidd0raj)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Kidd0raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidd0raj&show_icons=true&theme=merko)
 
 ### :writing_hand: Blog Posts :
 
