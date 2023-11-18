@@ -7,10 +7,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/rajabmattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajabmattryn" height="30" width="40" /></a>
-  <a href="https://twitter.com/kiddo_rajy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiddo_rajy" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ishaq-rajab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaq-rajab" height="30" width="40" /></a>
-  <!-- Add other social media links similarly -->
+<a href="https://dev.to/rajab mattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajab mattryn" height="30" width="40" /></a>
+<a href="https://twitter.com/kiddo_rajy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiddo_rajy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishaq-rajab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaq-rajab" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rajabmattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rajabmattryn" height="30" width="40" /></a>
+<a href="https://instagram.com/rajabmatt-ryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajabmatt-ryn" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rajabmattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rajabmattryn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiddoraj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiddoraj" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">About me:</h3>
@@ -29,11 +34,11 @@
   </ul>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="right">Languages and Tools:</h3> 
 <table>
   <tr>
     <td>
-      <p align="left"> 
+      <p align="right"> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
