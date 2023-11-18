@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiddoraj" height="30" width="40" /></a>
   
 </p>
-
+<div  align="right" style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
 <h3 align="left">About me:</h3>
 <p align="left">
   <ul>
