@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ishaq Rajab</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kidd0raj&label=Profile%20views&color=0e75b6&style=flat" alt="kidd0raj" /> </p>
 <h3 align="center">Glad to see you here!</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -7,7 +8,7 @@
 <a href="https://linkedin.com/in/ishaq-rajab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaq-rajab" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rajabmattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rajabmattryn" height="30" width="40" /></a>
 <a href="https://instagram.com/rajabmatt-ryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajabmatt-ryn" height="30" width="40" /></a>
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true"/>
 
 - 🔭 I’m currently working on [Agroshop](github.com/kidd0raj/Agroshop)
 
@@ -27,10 +28,7 @@
 
 - 📄 Know about my experiences [kiddoraj.tech](kiddoraj.tech)
 
-- ⚡ Fun fact **I write poetry**
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kidd0raj&label=Profile%20views&color=0e75b6&style=flat" alt="kidd0raj" /> </p>
+- ⚡ Fun fact **I like poetry**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kidd0raj" alt="kidd0raj" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kidd0raj&" alt="kidd0raj" /></p>
