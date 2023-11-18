@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiddoraj" height="30" width="40" /></a>
   
 </p>
- 
+ <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">About me:</h3>
 <p align="left">
