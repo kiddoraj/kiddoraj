@@ -17,7 +17,8 @@
 <a href="https://www.leetcode.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiddoraj" height="30" width="40" /></a>
   
 </p>
-<iframe  align="right" src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <h3 align="left">About me:</h3>
 <p align="left">
   <ul>
