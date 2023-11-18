@@ -21,16 +21,25 @@
 <h3 align="left">About me:</h3>
 <p align="left">
   <ul>
-    <li>🔭 Currently working on [Agroshop](https://github.com/kidd0raj/Agroshop)</li>
-    <li>🌱 Learning **Flutter, Jenkins, and Software Engineering@ALXAfrica**</li>
-    <li>👯 Looking to collaborate on [QuranIlluminate](https://github.com/kidd0raj/QuranIlluminate)</li>
-    <li>🤝 Seeking help with [farmX](https://github.com/kidd0raj/farmX)</li>
-    <li>👨‍💻 All projects available at [kiddoraj.tech](http://kiddoraj.tech)</li>
-    <li>📝 Regularly write articles on [askwithraj.com](http://askwithraj.com)</li>
-    <li>💬 Ask me about **Anything**</li>
-    <li>📫 How to reach me: [rajabmattryn@gmail.com](mailto:rajabmattryn@gmail.com)</li>
-    <li>📄 Know about my experiences: [kiddoraj.tech](http://kiddoraj.tech)</li>
-    <li>⚡ Fun fact: **I write poetry**</li>
+- 🔭 I’m currently working on [Agroshop](github.com/kidd0raj/Agroshop)
+
+- 🌱 I’m currently learning **Flutter, Jenkins and Software Engineering@ALXAfrica**
+
+- 👯 I’m looking to collaborate on [QuranIlluminate](github.com/kidd0raj/QuranIlluminate)
+
+- 🤝 I’m looking for help with [farmX](github.com/@kidd0raj/farmX)
+
+- 👨‍💻 All of my projects are available at [kiddoraj.tech](kiddoraj.tech)
+
+- 📝 I regularly write articles on [askwithraj.com](askwithraj.com)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **rajabmattryn@gmail.com**
+
+- 📄 Know about my experiences [kiddoraj.tech](kiddoraj.tech)
+
+- ⚡ Fun fact **I write poetry**
   </ul>
 </p>
 
