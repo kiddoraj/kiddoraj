@@ -25,11 +25,11 @@
 
 - 🌱 I’m currently learning **Flutter, Jenkins and Software Engineering@ALXAfrica**
   
-- 🔭 I’m currently working on [Agroshop](githb.com/Kidd0raj/Agroshop)
+- 🔭 I’m currently working on [Agroshop](github.com/Kidd0raj/Agroshop)
 
 - 👯 I’m looking to collaborate on [QuranIlluminate](github.com/kidd0raj/QuranIlluminate)
 
-- 🤝 I’m looking for help with [farmX](githb.com/Kidd0raj/farmx)
+- 🤝 I’m looking for help with [farmX](github.com/Kidd0raj/farmx)
 
 - 👨‍💻 All of my projects are available at [kiddoraj.tech](kiddoraj.tech)
 
