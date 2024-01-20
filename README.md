@@ -23,7 +23,7 @@
 <p align="left">
   <ul>
 
-- 🌱 I’m currently learning **Flutter, Jenkins and Software Engineering@ALXAfrica**
+- 🌱 I’m currently learning ** RPA (UiPath and Power Automate),  and Software Engineering@ALXAfrica**
   
 - 🔭 I’m currently working on [Agroshop](github.com/Kidd0raj/Agroshop)
 
